@@ -1,9 +1,11 @@
 require 'oystercard'
 
 describe Oystercard do 
-  let(:card) { Oystercard.new }
+  # let(:card) { Oystercard.new }
   
   it 'has balance' do
-    expect(card).to respond_to(:check_balance)
+    expect(subject).to respond_to(:balance)
   end
+
+
 end
