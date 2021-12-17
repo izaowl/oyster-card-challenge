@@ -55,3 +55,5 @@ As a customer
 I need a penalty charge deducted if I fail to touch in or out
 
 (also refactoring at step 14)
+
+Extracting a JourneyLog class following the Dependency Inversion principle.
