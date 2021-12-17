@@ -35,5 +35,4 @@ class Journey
       @fare = FARE
     end
   end
-
 end
